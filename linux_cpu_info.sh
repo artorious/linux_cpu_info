@@ -58,7 +58,10 @@ echo -e "\E[36mUsed Memory:\t $used_memory MB"
 echo -e "Free Memory:\t $free_total_memory MB"
 echo -e "Total Memory:\t $total_memory MB"
 echo
+<<<<<<< HEAD
 #TODO:
+=======
+>>>>>>> 33c238f8416f35970517ada1d7c7e1e4306a40f3
 echo -e "\E[33m--------------------------------------------------------------"
 echo -e "\t\t Theme Details"
 echo -e "---------------------------------------------------------------"
