@@ -3,7 +3,7 @@ A simple bash script that shows the cpu info for a linux system
 
 <dl>
     <dt>Script formats output using<dt>
-        <dd>Shell Embdedding</dd>
+        <dd>Shell Embdedding and pipes</dd>
         <dd>White space formmatting</dd>
     <dt>Bash Filters<dt>
         <dd><code>grep</code></dd>
@@ -35,7 +35,7 @@ Originally Written By
 [Lucas Westermann](http://lswest-ubuntu.blogspot.com)
 
 
-Full circle magazine Issue #21
+Full circle magazine Issue #21 - Command &amp; Conquer Section
 [full circle magazine](www.fullcirclemagazine.org)
 
 License - Creative Commons Attribution-Share Alike 3.0 Unported license
@@ -44,9 +44,3 @@ More on the licence,
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
 
-
-A simple custom script intended as an introductory look at the abilities of  
-
-
-Compiled and edited by Arthur Ngondo for Full Circle Magazine #21, Command 
-and conquer section written by Lucas Westermann
