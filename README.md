@@ -6,10 +6,10 @@ A simple bash script that shows the cpu info for a linux system
         <dd>Shell Embdedding and shell variables</dd>
         <dd>White space formmatting and pipes</dd>
     <dt>Bash Filters<dt>
-        <dd><code>grep</code></dd>
-        <dd><code>awk</code></dd>
-        <dd><code>sed</code></dd>
-        <dd><code>cut</code></dd>
+        <dd><code>grep</code> -  print  lines matching a pattern</dd>
+        <dd><code>awk</code> - pattern scanning and processing language</dd>
+        <dd><code>sed</code> - stream editor for filtering and transforming text</dd>
+        <dd><code>cut</code>- remove sections from each line of files</dd>
 </dl>
 
 Usage
@@ -19,6 +19,8 @@ Run:
 $ <kbd>bash linux_cpu_info.sh</kbd>
 </pre>
 
+See [screenshot](program_screenshot.png)
+
 Dependencies
 ============
 indent - changes  the  appearance  of  a  C program by inserting or deleting whitespace.
@@ -26,6 +28,7 @@ Run:
 <pre>
 $ <kbd>sudo apt-get install indent</kbd>
 </pre>
+
 
 
 
