@@ -1,2 +1,3 @@
 # linux_cpu_info
-Bash Script
+A simple bash script that shows the cpu info for a linux system
+
