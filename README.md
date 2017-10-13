@@ -3,8 +3,8 @@ A simple bash script that shows the cpu info for a linux system
 
 <dl>
     <dt>Script formats output using<dt>
-        <dd>Shell Embdedding and pipes</dd>
-        <dd>White space formmatting</dd>
+        <dd>Shell Embdedding and shell variables</dd>
+        <dd>White space formmatting and pipes</dd>
     <dt>Bash Filters<dt>
         <dd><code>grep</code></dd>
         <dd><code>awk</code></dd>
