@@ -19,6 +19,8 @@ Run:
 $ <kbd>bash linux_cpu_info.sh</kbd>
 </pre>
 
+See [screenshot](program_screenshot.png)
+
 Dependencies
 ============
 indent - changes  the  appearance  of  a  C program by inserting or deleting whitespace.
@@ -26,6 +28,7 @@ Run:
 <pre>
 $ <kbd>sudo apt-get install indent</kbd>
 </pre>
+
 
 
 
