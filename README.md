@@ -2,10 +2,10 @@
 A simple bash script that shows the cpu info for a linux system
 
 <dl>
-    <dt>Script formats output using<dt>
+    <dt>Script formats output using;<dt>
         <dd>Shell Embdedding and shell variables</dd>
         <dd>White space formmatting and pipes</dd>
-    <dt>Bash Filters<dt>
+    <dt>Script uses bash filters;<dt>
         <dd><code>grep</code> -  print  lines matching a pattern</dd>
         <dd><code>awk</code> - pattern scanning and processing language</dd>
         <dd><code>sed</code> - stream editor for filtering and transforming text</dd>
